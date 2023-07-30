@@ -6,3 +6,7 @@ UAS_ProgramanWeb1 IF-4A
 - 🔭 We currently Study on **Politeknik TEDC Bandung**
 
 - 🌱 We currently learning **Informatics Engineering**
+
+COntribution:
+- Friana = Membuat tampilan web nya / Frontend
+- Rasyid = Membuat Backend
