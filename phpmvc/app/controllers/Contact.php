@@ -1,10 +1,10 @@
 <?php
 
-class About extends Controller {
+class Contact extends Controller {
     public function index()
     {
     
-        $this->view('about/index');
+        $this->view('contact/index');
         $this->view('templates/footer');
      
     }
