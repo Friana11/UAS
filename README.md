@@ -10,3 +10,6 @@ UAS_ProgramanWeb1 IF-4A
 COntribution:
 - Friana = Membuat tampilan web nya / Frontend
 - Rasyid = Membuat Backend
+- Sakti = Tidak ada kontribusi
+
+
